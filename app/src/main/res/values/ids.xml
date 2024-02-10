@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Longitude" type="id" />
+    <item name="Latitude" type="id" />
+    <item name="address" type="id" />
+    <item name="latitude" type="id" />
+    <item name="longitude" type="id" />
+    <item name="aboutToolbar" type="id" />
+    <item name="latitudeLongitude" type="id" />
+</resources>

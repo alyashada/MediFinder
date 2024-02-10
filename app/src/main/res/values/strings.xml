@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Medi Finder</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "269713508507",
+    "firebase_url": "https://healhub-e0c6b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "healhub-e0c6b",
+    "storage_bucket": "healhub-e0c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269713508507:android:6cfee2b3132084c541de3e",
+        "android_client_info": {
+          "package_name": "com.example.healhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqXonZEnSZkHRKE0H1kzzE3zhHAensfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269713508507:android:344b365010479fe041de3e",
+        "android_client_info": {
+          "package_name": "com.example.healhub2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqXonZEnSZkHRKE0H1kzzE3zhHAensfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269713508507:android:dcd1f098e4570d3641de3e",
+        "android_client_info": {
+          "package_name": "com.example.healhub3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqXonZEnSZkHRKE0H1kzzE3zhHAensfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269713508507:android:228ba983299d79ee41de3e",
+        "android_client_info": {
+          "package_name": "com.example.project_gp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqXonZEnSZkHRKE0H1kzzE3zhHAensfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269713508507:android:bdc1fe4a33f8f1c541de3e",
+        "android_client_info": {
+          "package_name": "com.example.signuploginrealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqXonZEnSZkHRKE0H1kzzE3zhHAensfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
