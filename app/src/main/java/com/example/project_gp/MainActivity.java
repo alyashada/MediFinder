@@ -201,7 +201,7 @@ public class MainActivity extends AppCompatActivity {
             // You can implement the share functionality here
             Intent shareIntent = new Intent(Intent.ACTION_SEND);
             shareIntent.setType("text/plain");
-            shareIntent.putExtra(Intent.EXTRA_TEXT, "Visit Our Github Link: ");
+            shareIntent.putExtra(Intent.EXTRA_TEXT, "Visit Our Github Link: https://github.com/alyashada/MediFinder.git");
             startActivity(Intent.createChooser(shareIntent, "Share using"));
             return true;
         } else {
@@ -215,6 +215,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Create a map to store location details
         Map<String, Object> locationData = new HashMap<>();
+        locationData.put("username", username);
         locationData.put("address", address);
         locationData.put("latitude", latitude);
         locationData.put("longitude", longitude);
